@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="common-smoke">
+    <suite-files>
+        <suite-file path="main_page_test/main_page_smoke.xml"/>
+    </suite-files>
+</suite>

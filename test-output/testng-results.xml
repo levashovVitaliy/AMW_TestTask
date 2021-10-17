@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mainPage" duration-ms="54943" started-at="2021-10-18T01:23:31 EEST" finished-at="2021-10-18T01:24:26 EEST">
+    <groups>
+      <group name="regression">
+        <method signature="TestMainPage.test_01_checkPageTitle()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_01_checkPageTitle" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_02_checkHeaderText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_02_checkHeaderText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_03_checkScreenResizer()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_03_checkScreenResizer" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_04_checkWtfText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_04_checkWtfText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_05_checkVideoSourceName()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_05_checkVideoSourceName" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_06_checkProgressSectionText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_06_checkProgressSectionText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_07_checkAboutUsLinkHover()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_07_checkAboutUsLinkHover" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_08_checkAboutUsLinkArrowHover()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_08_checkAboutUsLinkArrowHover" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_09_checkAboutUsLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_09_checkAboutUsLink" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_10_checkEvolutionSectionText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_10_checkEvolutionSectionText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_11_checkEvolutionSectionImage()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_11_checkEvolutionSectionImage" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_12_checkNebulaSectionText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_12_checkNebulaSectionText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_13_checkNebulaBackgroundImage()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_13_checkNebulaBackgroundImage" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_14_checkEnterTheNebulaButton()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_14_checkEnterTheNebulaButton" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_15_checkFaqTitleText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_15_checkFaqTitleText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_16_checkElectronToGoAppLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_16_checkElectronToGoAppLink" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_17_checkStellarEvolutionLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_17_checkStellarEvolutionLink" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_18_checkFaqMenus()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_18_checkFaqMenus" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_19_checkDiscordLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_19_checkDiscordLink" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_20_checkTwitterLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_20_checkTwitterLink" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_21_checkMediumLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_21_checkMediumLink" class="suites.main_page_test.TestMainPage"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TestMainPage.test_01_checkPageTitle()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_01_checkPageTitle" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_02_checkHeaderText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_02_checkHeaderText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_03_checkScreenResizer()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_03_checkScreenResizer" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_04_checkWtfText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_04_checkWtfText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_05_checkVideoSourceName()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_05_checkVideoSourceName" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_06_checkProgressSectionText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_06_checkProgressSectionText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_07_checkAboutUsLinkHover()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_07_checkAboutUsLinkHover" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_08_checkAboutUsLinkArrowHover()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_08_checkAboutUsLinkArrowHover" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_09_checkAboutUsLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_09_checkAboutUsLink" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_10_checkEvolutionSectionText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_10_checkEvolutionSectionText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_11_checkEvolutionSectionImage()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_11_checkEvolutionSectionImage" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_12_checkNebulaSectionText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_12_checkNebulaSectionText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_13_checkNebulaBackgroundImage()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_13_checkNebulaBackgroundImage" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_14_checkEnterTheNebulaButton()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_14_checkEnterTheNebulaButton" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_15_checkFaqTitleText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_15_checkFaqTitleText" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_16_checkElectronToGoAppLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_16_checkElectronToGoAppLink" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_17_checkStellarEvolutionLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_17_checkStellarEvolutionLink" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_18_checkFaqMenus()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_18_checkFaqMenus" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_19_checkDiscordLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_19_checkDiscordLink" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_20_checkTwitterLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_20_checkTwitterLink" class="suites.main_page_test.TestMainPage"/>
+        <method signature="TestMainPage.test_21_checkMediumLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_21_checkMediumLink" class="suites.main_page_test.TestMainPage"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="mainPage-smoke" duration-ms="54943" started-at="2021-10-18T01:23:31 EEST" finished-at="2021-10-18T01:24:26 EEST">
+      <class name="suites.main_page_test.TestMainPage">
+        <test-method status="PASS" signature="setTestSuiteLabels()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="setTestSuiteLabels" is-config="true" duration-ms="19" started-at="2021-10-18T01:23:31 EEST" finished-at="2021-10-18T01:23:31 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestSuiteLabels -->
+        <test-method status="PASS" signature="setBasePage(java.lang.String)[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="setBasePage" is-config="true" duration-ms="3060" started-at="2021-10-18T01:23:31 EEST" finished-at="2021-10-18T01:23:34 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SMOKE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBasePage -->
+        <test-method status="PASS" signature="initObjects()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="initObjects" is-config="true" duration-ms="74" started-at="2021-10-18T01:23:34 EEST" finished-at="2021-10-18T01:23:34 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initObjects -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="3532" started-at="2021-10-18T01:23:34 EEST" finished-at="2021-10-18T01:23:38 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_01_checkPageTitle()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_01_checkPageTitle" duration-ms="48" started-at="2021-10-18T01:23:38 EEST" finished-at="2021-10-18T01:23:38 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01_checkPageTitle -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="2050" started-at="2021-10-18T01:23:38 EEST" finished-at="2021-10-18T01:23:40 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_02_checkHeaderText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_02_checkHeaderText" duration-ms="30" started-at="2021-10-18T01:23:40 EEST" finished-at="2021-10-18T01:23:40 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02_checkHeaderText -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="1399" started-at="2021-10-18T01:23:40 EEST" finished-at="2021-10-18T01:23:41 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_03_checkScreenResizer()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_03_checkScreenResizer" duration-ms="6629" started-at="2021-10-18T01:23:41 EEST" finished-at="2021-10-18T01:23:48 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_03_checkScreenResizer -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="619" started-at="2021-10-18T01:23:48 EEST" finished-at="2021-10-18T01:23:49 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_04_checkWtfText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_04_checkWtfText" duration-ms="28" started-at="2021-10-18T01:23:49 EEST" finished-at="2021-10-18T01:23:49 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_04_checkWtfText -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="570" started-at="2021-10-18T01:23:49 EEST" finished-at="2021-10-18T01:23:49 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_05_checkVideoSourceName()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_05_checkVideoSourceName" duration-ms="50" started-at="2021-10-18T01:23:49 EEST" finished-at="2021-10-18T01:23:49 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_05_checkVideoSourceName -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="565" started-at="2021-10-18T01:23:49 EEST" finished-at="2021-10-18T01:23:50 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_06_checkProgressSectionText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_06_checkProgressSectionText" duration-ms="19" started-at="2021-10-18T01:23:50 EEST" finished-at="2021-10-18T01:23:50 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_06_checkProgressSectionText -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="574" started-at="2021-10-18T01:23:50 EEST" finished-at="2021-10-18T01:23:51 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_07_checkAboutUsLinkHover()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_07_checkAboutUsLinkHover" duration-ms="753" started-at="2021-10-18T01:23:51 EEST" finished-at="2021-10-18T01:23:51 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_07_checkAboutUsLinkHover -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="744" started-at="2021-10-18T01:23:51 EEST" finished-at="2021-10-18T01:23:52 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_08_checkAboutUsLinkArrowHover()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_08_checkAboutUsLinkArrowHover" duration-ms="789" started-at="2021-10-18T01:23:52 EEST" finished-at="2021-10-18T01:23:53 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_08_checkAboutUsLinkArrowHover -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="552" started-at="2021-10-18T01:23:53 EEST" finished-at="2021-10-18T01:23:53 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_09_checkAboutUsLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_09_checkAboutUsLink" duration-ms="3439" started-at="2021-10-18T01:23:53 EEST" finished-at="2021-10-18T01:23:57 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_09_checkAboutUsLink -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="585" started-at="2021-10-18T01:23:57 EEST" finished-at="2021-10-18T01:23:57 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_10_checkEvolutionSectionText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_10_checkEvolutionSectionText" duration-ms="105" started-at="2021-10-18T01:23:57 EEST" finished-at="2021-10-18T01:23:58 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_10_checkEvolutionSectionText -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="533" started-at="2021-10-18T01:23:58 EEST" finished-at="2021-10-18T01:23:58 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_11_checkEvolutionSectionImage()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_11_checkEvolutionSectionImage" duration-ms="29" started-at="2021-10-18T01:23:58 EEST" finished-at="2021-10-18T01:23:58 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_11_checkEvolutionSectionImage -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="560" started-at="2021-10-18T01:23:58 EEST" finished-at="2021-10-18T01:23:59 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_12_checkNebulaSectionText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_12_checkNebulaSectionText" duration-ms="51" started-at="2021-10-18T01:23:59 EEST" finished-at="2021-10-18T01:23:59 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_12_checkNebulaSectionText -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="552" started-at="2021-10-18T01:23:59 EEST" finished-at="2021-10-18T01:23:59 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_13_checkNebulaBackgroundImage()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_13_checkNebulaBackgroundImage" duration-ms="733" started-at="2021-10-18T01:23:59 EEST" finished-at="2021-10-18T01:24:00 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_13_checkNebulaBackgroundImage -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="585" started-at="2021-10-18T01:24:00 EEST" finished-at="2021-10-18T01:24:01 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_14_checkEnterTheNebulaButton()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_14_checkEnterTheNebulaButton" duration-ms="3898" started-at="2021-10-18T01:24:01 EEST" finished-at="2021-10-18T01:24:04 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_14_checkEnterTheNebulaButton -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="546" started-at="2021-10-18T01:24:04 EEST" finished-at="2021-10-18T01:24:05 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_15_checkFaqTitleText()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_15_checkFaqTitleText" duration-ms="26" started-at="2021-10-18T01:24:05 EEST" finished-at="2021-10-18T01:24:05 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_15_checkFaqTitleText -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="574" started-at="2021-10-18T01:24:05 EEST" finished-at="2021-10-18T01:24:06 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_16_checkElectronToGoAppLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_16_checkElectronToGoAppLink" duration-ms="6414" started-at="2021-10-18T01:24:06 EEST" finished-at="2021-10-18T01:24:12 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_16_checkElectronToGoAppLink -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="567" started-at="2021-10-18T01:24:12 EEST" finished-at="2021-10-18T01:24:13 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_17_checkStellarEvolutionLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_17_checkStellarEvolutionLink" duration-ms="2352" started-at="2021-10-18T01:24:13 EEST" finished-at="2021-10-18T01:24:15 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_17_checkStellarEvolutionLink -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="567" started-at="2021-10-18T01:24:15 EEST" finished-at="2021-10-18T01:24:16 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_18_checkFaqMenus()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_18_checkFaqMenus" duration-ms="1283" started-at="2021-10-18T01:24:16 EEST" finished-at="2021-10-18T01:24:17 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_18_checkFaqMenus -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="540" started-at="2021-10-18T01:24:17 EEST" finished-at="2021-10-18T01:24:17 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_19_checkDiscordLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_19_checkDiscordLink" duration-ms="2567" started-at="2021-10-18T01:24:17 EEST" finished-at="2021-10-18T01:24:20 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_19_checkDiscordLink -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="554" started-at="2021-10-18T01:24:20 EEST" finished-at="2021-10-18T01:24:21 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_20_checkTwitterLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_20_checkTwitterLink" duration-ms="2390" started-at="2021-10-18T01:24:21 EEST" finished-at="2021-10-18T01:24:23 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_20_checkTwitterLink -->
+        <test-method status="PASS" signature="prepareTest()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="prepareTest" is-config="true" duration-ms="565" started-at="2021-10-18T01:24:23 EEST" finished-at="2021-10-18T01:24:23 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTest -->
+        <test-method status="PASS" signature="test_21_checkMediumLink()[pri:0, instance:suites.main_page_test.TestMainPage@778d1062]" name="test_21_checkMediumLink" duration-ms="2439" started-at="2021-10-18T01:24:23 EEST" finished-at="2021-10-18T01:24:26 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_21_checkMediumLink -->
+      </class> <!-- suites.main_page_test.TestMainPage -->
+    </test> <!-- mainPage-smoke -->
+  </suite> <!-- mainPage -->
+  <suite name="common-smoke" duration-ms="0" started-at="2021-10-18T01:24:26 EEST" finished-at="2021-10-18T01:24:26 EEST">
+    <groups>
+    </groups>
+  </suite> <!-- common-smoke -->
+  <suite name="smoke-all" duration-ms="0" started-at="2021-10-18T01:24:26 EEST" finished-at="2021-10-18T01:24:26 EEST">
+    <groups>
+    </groups>
+  </suite> <!-- smoke-all -->
+</testng-results>
